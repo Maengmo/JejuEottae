@@ -1,0 +1,17 @@
+2023년 4월 18일 화요일 21시
+참석자: 김대환, 이동재, 이채린, 조연우
+
+안건: 테이블 수정, 데이터 생성 및 삽입
+
+1. 테이블 수정
+- Review 테이블 Owner_seq FK 삭제, Business_seq 및 Tour_area_seq null 가능하도록 수정
+- Reservation, Rentcar_reservation 테이블 Owner_seq FK 삭제
+
+2. 데이터 생성
+- 김대환: Charge_record
+- 이동재: Question
+- 이채린: Bookmark
+- 조연우: Review
+
+3. 데이터 삽입
+- 생성 데이터 전체 삽입 완료

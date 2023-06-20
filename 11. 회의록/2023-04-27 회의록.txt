@@ -1,0 +1,12 @@
+2023-04-27 21:00
+김대환, 유동현, 이동재, 이채린, 조연우
+
+1. 생성된 전체 파일 점검
+2. 자바 프로젝트 파일 생성
+3. 패키지 분류 및 클래스 분류 논의
+- 유사 기능별 5개 패키지로 분류
+- board: Review_admin, Review_owner, Review_user, Notice, Question_admin, Question_user
+- information: Account_login, Account_admin, Account_owner, Account_user
+- trip: Tour, Bookmark, Scheduler
+- business: Food&cafe, Activity, Accommodate, Rentcar
+- reservation: reserve_admin, reserve_owner, reserve_user, point, payment 

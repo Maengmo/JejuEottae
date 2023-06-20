@@ -1,0 +1,22 @@
+2023년 4월 16일 일요일 21시
+참석자: 김대환, 유동현, 이동재, 이채린, 조연우
+
+안건: 테이블 수정, 데이터 생성 및 삽입
+
+1. 테이블 수정
+   - Notice 테이블 컬럼 수정(Notice_content 추가)
+   - Tour 테이블 컬럼 수정(Tour_startdate, Tour_enddate 추가)
+   - 테이블 수정에 따른 ERD 수정
+
+2. 데이터 생성 분담
+   - 김대환: Admin, Question_kind
+   - 유동현: Tour
+   - 이동재: Users
+   - 이채린: Notice, Bookmark
+   - 조연우: Advertisement
+
+3. 데이터 삽입
+   - Admin, Question_kind, Users, Notice
+
+4. 기타
+   - 데이터 정의서 작성
