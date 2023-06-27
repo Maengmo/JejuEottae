@@ -84,7 +84,7 @@
 <br>
 
 
-#### 2️⃣ 사업장 관리
+#### 2️⃣ 공지사항 관리
 ![pr5-9](https://github.com/Maengmo/JejuEottae/assets/117720344/87c617b1-54b7-4f7a-9547-b717cfad924f)
 
 
